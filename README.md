@@ -2,6 +2,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddizi&show_icons=true&theme=radical)
 
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Jpa](https://img.shields.io/badge/jpa-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
 <!--
 **ddizi/ddizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
